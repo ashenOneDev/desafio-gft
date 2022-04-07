@@ -14,7 +14,7 @@ public class Pessoa {
     }
 
     public int diferencaEntreIdades() {
-        return abs(this.getIdadePessoa() - this.pet.getPorte());
+        return abs(this.getIdadePessoa() - this.pet.porteCachorro(this.pet.getPorte()));
 
     }
 

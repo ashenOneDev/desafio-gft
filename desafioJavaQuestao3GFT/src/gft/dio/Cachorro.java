@@ -26,31 +26,58 @@ public class Cachorro {
                     return 5;
                 case 40:
                     return 6;
-                case 48:
+                case 44:
                     return 7;
-                case 52:
+                case 48:
                     return 8;
+                case 52:
+                    return 9;
+                case 56:
+                    return 10;
+                case 60:
+                    return 11;
+                case 64:
+                    return 12;
+                case 68:
+                    return 13;
+                case 72:
+                    return 14;
+                case 76:
+                    return 15;
 
             }
-
         } else if (this.getPorte() == "medio") {
             switch (this.idade){
                 case 15:
                     return 1;
-                case 28:
+                case 24:
                     return 2;
-                case 32:
+                case 28:
                     return 3;
-                case 36:
+                case 32:
                     return 4;
-                case 42:
+                case 36:
                     return 5;
-                case 47:
+                case 42:
                     return 6;
-                case 51:
+                case 47:
                     return 7;
-                case 56:
+                case 51:
                     return 8;
+                case 56:
+                    return 9;
+                case 60:
+                    return 10;
+                case 65:
+                    return 11;
+                case 69:
+                    return 12;
+                case 74:
+                    return 13;
+                case 78:
+                    return 14;
+                case 83:
+                    return 15;
 
             }
 
@@ -72,6 +99,20 @@ public class Cachorro {
                     return 7;
                 case 55:
                     return 8;
+                case 61:
+                    return 9;
+                case 66:
+                    return 10;
+                case 72:
+                    return 11;
+                case 77:
+                    return 12;
+                case 82:
+                    return 13;
+                case 88:
+                    return 14;
+                case 93:
+                    return 15;
 
             }
 
